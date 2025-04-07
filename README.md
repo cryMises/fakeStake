@@ -25,5 +25,5 @@ cd <fileName> && cd src
 ```
 Compile
 ```
-clang++ -std=c+++23 -stdlib=libc++ -lc++ -Wall main.cpp -o ./fakeStake && ./fakeStake
+clang++ -std=c++23 -stdlib=libc++ -lc++ -Wall main.cpp -o ./fakeStake && ./fakeStake
 ```
